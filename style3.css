@@ -1,0 +1,62 @@
+
+	@font-face {
+    font-family: 'GrapeSoda';
+    src: url('fonts/GrapeSoda.ttf'); 
+	}
+	
+	@font-face {
+    font-family: 'VCR';
+    src: url('fonts/VCR.ttf'); 
+	}
+	
+	body{
+	background-color:#000000;
+	background-image: url("images/wallpaper.png");
+	}
+	
+	.title1{
+	font-family:GrapeSoda;
+	color:#dea60b;
+	font-size:64px;
+	text-align:center;
+	padding:20px;
+	}
+	
+	.title2{
+	font-family:GrapeSoda;
+	color:#bbbbbb;
+	font-size:32px;
+	text-align:center;
+	padding:20px;
+	}
+	
+	.text1{
+	font-family:VCR;
+	color:white;
+	font-size:32px;
+	text-align:center;
+	}
+	
+	.text2{
+	font-family:VCR;
+	color:white;
+	font-size:24px;
+	text-align:center;
+	padding-right:150px;
+	padding-left:150px;
+	}
+	
+		.center {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	object-fit:cover;
+	}
+	
+	}
+	
+	}
+		
+	
+
+		
